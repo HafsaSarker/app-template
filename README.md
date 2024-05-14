@@ -19,17 +19,19 @@ Quickly launch a full-stack application without dealing with the setup complexit
 1. Download Zip file of the repo
 2. Unzip and open with code editor
 
-### Run client
+## Run client
 
 1. `cd client`
 2. `npm i`
 3. `npm run dev` to get localhost server running
 
-### Run server
+## Run server
 
 1. Open a new terminal
 2. `cd server`
 3. `npm i`
 4. `npm start` to get server running
 
+### Server Tutorial Used:
 
+https://youtu.be/b8ZUb_Okxro?si=BWt4RoHS-eQXVDkM
