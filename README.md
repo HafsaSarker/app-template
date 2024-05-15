@@ -6,13 +6,12 @@ Quickly launch a full-stack application without dealing with the setup complexit
 - React + Typescript 
 - DaisyUI for lots of theme options
 - Configured with Tailwind & Postcss 
-- React Routes
+- React Router
 
 ## Server Features
 
 - Express + Typescript 
 - Organized directories for controllers, router, and middleware 
-
 
 ## Installation
 
@@ -35,3 +34,7 @@ Quickly launch a full-stack application without dealing with the setup complexit
 ### Server Tutorial Used:
 
 https://youtu.be/b8ZUb_Okxro?si=BWt4RoHS-eQXVDkM
+
+### Explore DaisyUI:
+
+https://daisyui.com/
